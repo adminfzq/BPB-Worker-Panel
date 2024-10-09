@@ -1769,7 +1769,7 @@ async function renderHomePage (env, hostName, fragConfigs) {
                     </div>
                     <div class="form-control">
                         <label>🔎 IP Scanner</label>
-                        <a href="https://vfarid.github.io/cf-ip-scanner/" id="scanner" name="scanner" target="_blank" style="width: 100%;">
+                        <a href="https://scanner.github1.cloud/" id="scanner" name="scanner" target="_blank" style="width: 100%;">
                             <button type="button" class="button">
                                 Scan now
                                 <span class="material-symbols-outlined">open_in_new</span>
